@@ -1,0 +1,22 @@
+{
+  "name": "touritafel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "download-file": "^0.1.5",
+    "mastodon": "^1.2.2",
+    "paper": "^0.11.5",
+    "paper-jsdom": "^0.11.5",
+    "paper-jsdom-canvas": "^0.11.5",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "the-noun-project": "^2.1.0",
+    "wikidata-sdk": "^5.15.8"
+  }
+}
